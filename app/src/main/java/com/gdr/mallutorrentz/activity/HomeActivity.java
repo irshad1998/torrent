@@ -1,7 +1,7 @@
 package com.gdr.mallutorrentz.activity;
 
 /**
- * Code by Irshad
+ * Coded by Irshad
  */
 
 import androidx.appcompat.app.AppCompatActivity;
