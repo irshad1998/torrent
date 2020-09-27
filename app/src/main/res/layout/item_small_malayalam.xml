@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="110dp"
+    android:layout_height="150dp"
+    app:cardCornerRadius="6dp"
+    android:layout_margin="4dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/smaal_item_image_malayalam"
+        android:scaleType="fitXY"/>
+
+</androidx.cardview.widget.CardView>
